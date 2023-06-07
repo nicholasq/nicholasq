@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nicholasq
 - 👀 I’m interested in programming, fitness, nutrition, fermenting foods, and hydroponic gardening.
-- 🌱 I’m currently learning Software Engineering, Javascript, Kotlin, Java, and Swift.
-- 💞️ I’m looking to collaborate on ... not sure actually.
+- 🌱 I’m a Software Engineer, I know Typescript/Javascript, Kotlin, Python, and Java.
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
 
 <!---
